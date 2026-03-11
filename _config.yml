@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "resume.md", title: "Resume", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:carlo.wiesse@smail.inf.h-brs.de"}
+  - {title: Mail, icon: envelope, url: "mailto:carlo.wiesse@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/carlowiesse"}
 
 comments:
