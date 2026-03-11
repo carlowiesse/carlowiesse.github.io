@@ -8,38 +8,28 @@ I earned my Master’s degree in the field of Computer Science with a focus on a
 
 ## Work Experience
 
-**A*STAR ARTC, Singapore (2022-2024)**
+**A*STAR SIMTech, Singapore (2022-2026)**
 
 *Senior Research Engineer*
 
-- Worked on industry projects providing computer vision solutions for robotic-based applications.
-- Designed visual localization systems for mobile manipulators using C++ and Python with ROS.
-- Trained neural networks for reinforcement learning scenarios and object detection from images.
+- Deployed multi-modal AI pipelines in AWS EC2 for remote robot operation.
+- Integrated foundation models in robotic pipelines for reliable task execution in labs and industrial scenes.
+- Developed data processing pipelines for robot operation involving 3D vision-based localization and manipulation tasks.
+- Designed the overall system architecture for local and remote operation of mobile manipulators in multi-sensor setups.
 
 **Fraunhofer FKIE, Germany (2019-2021)**
 
-*Computer Vision Research Assistant*
+*Computer Vision Researcher*
 
-- Supported engineering projects in the field of computer vision for autonomous drones.
-- Implemented proof-of-concept ideas involving machine learning using C++ and Python.
-- Designed automated developer tools to test my code.
-- Created ROS packages based on my proof-of-concept implementations.
-- Built virtual environments on Gazebo to simulate drones using my ROS packages.
-- Proposed an alternative odometry system for drones, which became my Master’s thesis.
+- Supported the development of engineering projects in the field of computer vision for military drone-based applications.
+- Designed visual localization systems on Python and C++ using machine learning, and built virtual environments using ROS to simulate drones using such systems.
 
-**CTIC UNI, Peru (2017-2018)**
-
-*Aerodynamics Engineer Consultant*
-
-- Supported the manufacturing of a hydrofoil craft for Hydro Contest 2018 in France.
-- Designed a hydrofoil using flow simulation and 3D modeling.
-
-**Garrison Flight Research Center, United States (2016)**
+**Garrison Flight Research Center, United States (2016-2017)**
 
 *Collision Avoidance Research Assistant*
 
-- Developed collision avoidance software for autonomous drones.
-- Tested collision avoidance systems for drones in virtual environments using MATLAB.
+- Supported the development of collision avoidance software in the field of risk mitigation for military drone-based applications.
+- Evaluated popular collision avoidance systems for UAVs in custom virtual environments using MATLAB.
 
 ## Education
 
@@ -59,9 +49,11 @@ I earned my Master’s degree in the field of Computer Science with a focus on a
 
 ## Technical Skills
 
-- Operating systems: Linux, Windows
-- Programming languages: Python, C++, MATLAB, Java
-- Other tools: Tensorflow, ROS, OpenCV, Jupyter Notebooks, Git, Latex, Tableau
+- Cloud Platforms: Amazon EC2
+- Operating systems: NVIDIA Jetson Linux, Ubuntu Linux, Windows Subsystem for Linux
+- Programming languages: Python, C++, MATLAB
+- Machine learning: Pytorch, Jax, CUDA
+- Other tools: ROS, Git, PowerBI, Latex
 
 ## Publications
 *b-it-bots: Our Approach for Autonomous Robotics in Industrial Environments*. RoboCup 2019.
